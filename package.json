@@ -23,7 +23,8 @@
     "url": "https://github.com/acidmange/frontend-project-lvl1/issues"
   },
   "bin": {
-    "brain-games": "bin/brain-games.js"
+    "brain-games": "bin/brain-games.js",
+    "brain-even": "bin/brain-even.js"
   },
   "author": "acidmange",
   "license": "ISC",
