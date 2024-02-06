@@ -1,0 +1,34 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "node js learning education project",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "welcome": "node bin/brain-games.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acidmange/frontend-project-lvl1.git"
+  },
+  "keywords": [
+    "nodejs",
+    "acidmange"
+  ],
+  "bugs": {
+    "url": "https://github.com/acidmange/frontend-project-lvl1/issues"
+  },
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
+  "author": "acidmange",
+  "license": "ISC",
+  "homepage": "https://github.com/acidmange/frontend-project-lvl1#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
