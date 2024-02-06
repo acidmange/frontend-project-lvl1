@@ -6,4 +6,4 @@ const cli = () => {
     console.log(`Hello, ${userName}`);
 };
 
-export { cli };
+export default cli;
