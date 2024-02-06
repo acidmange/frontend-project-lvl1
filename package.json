@@ -22,6 +22,9 @@
   "bugs": {
     "url": "https://github.com/acidmange/frontend-project-lvl1/issues"
   },
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
   "author": "acidmange",
   "license": "ISC",
   "homepage": "https://github.com/acidmange/frontend-project-lvl1#readme"
