@@ -27,5 +27,8 @@
   },
   "author": "acidmange",
   "license": "ISC",
-  "homepage": "https://github.com/acidmange/frontend-project-lvl1#readme"
+  "homepage": "https://github.com/acidmange/frontend-project-lvl1#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
