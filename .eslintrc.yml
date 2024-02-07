@@ -6,7 +6,6 @@ parserOptions:
   ecmaVersion: latest
   sourceType: module
 rules: {
-  'indent': 'off',
   'import/extensions': 'off',
   'no-console': 'off'
 }
