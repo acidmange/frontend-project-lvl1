@@ -24,12 +24,14 @@
   },
   "bin": {
     "brain-games": "bin/brain-games.js",
-    "brain-even": "bin/brain-even.js"
+    "brain-even": "bin/brain-even.js",
+    "brain-calc": "bin/brain-calc.js"
   },
   "author": "acidmange",
   "license": "ISC",
   "homepage": "https://github.com/acidmange/frontend-project-lvl1#readme",
   "dependencies": {
+    "random": "^4.1.0",
     "readline-sync": "^1.4.10"
   },
   "devDependencies": {
